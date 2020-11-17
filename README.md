@@ -1,0 +1,2 @@
+# React-Memory-Game
+Greetings everybody :) .I made my first Game in React.js.Game consist 15 levels.Your goal is to memorize divs of the same colors,click on their position and if you divs have same number and colors you pass to the next level.To play this game you have to install Node.js, after that you need to install react app and when you finish all of that run "npm start" .When server opens you have React.js on the screen.Then you copy html,css and js file to React sources from mine profile.Good luck .
